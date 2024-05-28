@@ -23,8 +23,8 @@ let expInfo = {
 let counter = 0;
 // Set number of trials per loop. Change as you wish
 // These are used in the code blocks of each loop
-let nPractice = 2;
-let nMain = 2;
+let nPractice = 5;
+let nMain = 50;
 // Creates text definition for subset 
 // to be used in main trials loop.
 let subset_text = (nPractice.toString() + ":-1");
